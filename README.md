@@ -7,7 +7,7 @@ B.Tech CSE student @ HPTU, Hamirpur | Aspiring SDE | Building real-world project
 ---
 
 ### 🔭 What I'm working on
-- 📚 Mastering DSA in C++ (Striver's A2Z sheet)
+- 📚 Mastering DSA in C++ 
 - 🌐 Building full-stack projects with the MERN stack
 - 🚀 Contributing to ECSoC 2026
 - 🎓 GfG Campus Mantri
@@ -21,9 +21,8 @@ B.Tech CSE student @ HPTU, Hamirpur | Aspiring SDE | Building real-world project
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Project Name]** — one-line description of what it does and the impact/result
-- **[Project Name]** — one-line description of what it does and the impact/result
-- **[Personal Portfolio](https://golusourav72-commits.github.io/Personal-Portfolio-Website)** — my personal site built with vanilla HTML/CSS/JS
+- **[todo-cli-app](https://github.com/golusourav72-commits/todo-cli-app)** — A command-line To-Do app built with Node.js to add, list, and delete tasks
+- **[Personal Portfolio Website](https://github.com/golusourav72-commits/Personal-Portfolio-Website)** — Responsive portfolio site built from scratch with vanilla HTML/CSS/JS, featuring scroll animations and a typewriter hero section
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravhptu)
