@@ -21,7 +21,7 @@ B.Tech CSE student @ HPTU, Hamirpur | Aspiring SDE | Building real-world project
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[todo-cli-app](https://github.com/golusourav72-commits/todo-cli-app)** — A command-line To-Do app built with Node.js to add, list, and delete tasks
+- **[Linkedin-Profile-Score-](https://github.com/golusourav72-commits/Linkedin-Profile-Score-)** — A diagnostic tool that scores your linkedin profile section-by-section (headline,about,experience,skills,featured) using rule-based checks + Gemini API analysis, with rewrite suggestions.
 - **[Personal Portfolio Website](https://github.com/golusourav72-commits/Personal-Portfolio-Website)** — Responsive portfolio site built from scratch with vanilla HTML/CSS/JS, featuring scroll animations and a typewriter hero section
 
 ### 📫 Connect with me
