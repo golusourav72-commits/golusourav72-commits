@@ -1,16 +1,21 @@
 <h1 align="center">Hi, I'm Sourav 👋</h1>
 
 <p align="center">
-B.Tech CSE student @ HPTU, Hamirpur | Aspiring SDE | Building real-world projects
+
+💻 Aspiring Software Engineer
+🎓 B.Tech CSE @ HPTU Hamirpur
+🚀 Passionate about Full Stack Development & Problem Solving
 </p>
 
 ---
 
-### 🔭 What I'm working on
-- 📚 Mastering DSA in C++ 
-- 🌐 Building full-stack projects with the MERN stack
-- 🚀 Contributing to ECSoC 2026
-- 🎓 GfG Campus Mantri
+###  Currently Working On
+
+- Solving Data Structures & Algorithms in C++
+- Building Full Stack MERN Applications
+- Learning Backend System Design
+- Contributing to Open Source (ECSOC)
+- Preparing for SDE Internship Interviews
 
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -22,12 +27,41 @@ B.Tech CSE student @ HPTU, Hamirpur | Aspiring SDE | Building real-world project
 
 ### 📌 Featured Projects
 - **[Linkedin-Profile-Score-](https://github.com/golusourav72-commits/Linkedin-Profile-Score-)** — A diagnostic tool that scores your linkedin profile section-by-section (headline,about,experience,skills,featured) using rule-based checks + Gemini API analysis, with rewrite suggestions.
+
+  Tech:
+
+  JavaScript • HTML • CSS • Gemini API
+
+  Features
+
+  ✔ LinkedIn profile analysis
+
+  ✔ AI suggestions
+
+  ✔ Resume-friendly feedback
+
+  ✔ Clean UI
 - **[Personal Portfolio Website](https://github.com/golusourav72-commits/Personal-Portfolio-Website)** — Responsive portfolio site built from scratch with vanilla HTML/CSS/JS, featuring scroll animations and a typewriter hero section
+
+   Tech:
+
+  HTML • CSS • JavaScript
+
+  Features
+
+  ✔ Responsive Design
+
+  ✔ Animations
+
+  ✔ Typing Effect
+
+  ✔ Contact Form
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravhptu)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:golusourav72@gmail.com)
 
+⭐ Always open to collaborating on impactful software projects.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=golusourav72-commits&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
