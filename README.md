@@ -57,15 +57,22 @@
 
   ✔ Contact Form
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravhptu)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:golusourav72@gmail.com)
+  ### 📫 Connect with me
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravhptu)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:golusourav72@gmail.com)
 
-⭐ Always open to collaborating on impactful software projects.
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=golusourav72-commits&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ⭐ Always open to collaborating on impactful software projects.
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=golusourav72-commits&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=golusourav72-commits&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golusourav72-commits&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 <!--
 **golusourav72-commits/golusourav72-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
