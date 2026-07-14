@@ -63,7 +63,7 @@
 
   ⭐ Always open to collaborating on impactful software projects.
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golusourav72-commits&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=golusourav72-commits&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golusourav72-commits&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=golusourav72-commits&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <!--
