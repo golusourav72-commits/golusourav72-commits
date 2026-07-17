@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Linkedin-Profile-Score-](https://github.com/golusourav72-commits/Linkedin-Profile-Score-)** — A diagnostic tool that scores your linkedin profile section-by-section (headline,about,experience,skills,featured) using rule-based checks + Gemini API analysis, with rewrite suggestions.
+- **[Signal-Check](https://github.com/golusourav72-commits/Signal-Check)** — A diagnostic tool that scores your linkedin profile section-by-section (headline,about,experience,skills,featured), resume and Github using rule-based checks + Gemini API analysis, with rewrite suggestions.
 
   Tech:
 
