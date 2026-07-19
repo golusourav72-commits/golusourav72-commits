@@ -30,7 +30,7 @@
 
   Tech:
 
-  JavaScript • HTML • CSS • Gemini API
+  JavaScript • HTML • CSS • Gemini API • MongoDB 
 
   Features
 
